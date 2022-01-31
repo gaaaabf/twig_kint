@@ -1,0 +1,10 @@
+{
+  "name": "drupal/twig_kint",
+  "description": "Provides kint functionality on twig",
+  "type": "drupal-module",
+  "license": "GPL-2.0-or-later",
+  "require": {
+    "kint-php/kint": "^4.1"
+  }
+}
+
