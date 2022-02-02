@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\twig_ext;
+namespace Drupal\twig_kint;
 
 use Twig\Extension\AbstractExtension;
 use Twig\TwigFunction;
@@ -15,7 +15,7 @@ class TwigExtension extends AbstractExtension {
    * {@inheritdoc}
    */
   public function getName() {
-    return 'total_control.twig_extension';
+    return 'twig_kint.twig_extension';
   }
 
   /**

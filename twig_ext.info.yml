@@ -1,5 +1,0 @@
-name: 'Custom Twig Extensions'
-description: 'Custom made twig extensions added here'
-type: module
-core: 8.x
-core_version_requirement: ^8 || ^9
