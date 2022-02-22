@@ -1,5 +1,5 @@
 {
-    "name": "drupal/twig_kint",
+    "name": "rbf/twig_kint",
     "description": "Provides kint functionality on twig",
     "type": "drupal-module",
     "license": "GPL-2.0-or-later",
